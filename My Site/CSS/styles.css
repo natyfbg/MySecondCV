@@ -1,0 +1,137 @@
+body{
+  color: #40514E;
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  text-align: center;
+  font-family: 'Verdana', Georgia, serif;
+  font-size: 20px;
+
+}
+
+h1{
+  color: #008080;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'sacramento' cursive;
+}
+.programmer{
+  color: #008080;
+  font-weight: normal;
+}
+
+h2 {
+  color: #006666;
+  font-size: 2.5rem;
+  font-family: 'Montserrat' sans-serif;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #004c4c;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  line-height: 1.5;
+}
+
+hr{
+  border: dotted #EAF6F6;
+  border-bottom: none;
+  width: 14%;
+  margin: 45px auto;
+}
+a{
+  color: #11995E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+
+}
+a:hover{
+  color: #EAF6F6;
+}
+.btn {
+  background: #11CDD4;
+  background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+  background-image: linear-gradient(to bottom, #11CDD4, #11999E);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Verdana', Georgia, serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30E3CB;
+  background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
+  text-decoration: none;
+}
+.topCotainer{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.intro{
+  width: 50%;
+  margin: auto;
+}
+
+.middleContainer{
+
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  margin-top: 70px;
+  padding: 50px 0 40px;
+  border-bottom: 0;
+  margin-bottom: 0;
+
+}
+.bottom-cloud{
+  position: absolute;
+  right: 850px;
+
+}
+
+.top-cloud{
+  position: absolute;
+  left: 850px;
+}
+.profile {
+
+}
+.skill-row{
+    margin: 10px auto 10px auto;
+    width: 60%;
+    text-align: left;
+  }
+.Skill-two{
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+}
+.Skill-one{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  padding-top: 60px;
+}
+.Copy-Right{
+  color: #EAF6F6;
+  font-size: 0.98rem;
+  padding: 30px 0;
+}
